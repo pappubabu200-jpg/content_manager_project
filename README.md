@@ -1,3 +1,2 @@
-# Custom Content Creation & Management Tools
-
-Follow instructions inside to run the project.
+# New Project 1
+Dummy AI content generator project
